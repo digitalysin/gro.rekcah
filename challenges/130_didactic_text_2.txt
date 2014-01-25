@@ -1,0 +1,17 @@
+each phrase taken from the old testament, the book of deuteronomy.
+
+8:4   : Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.
+20:9  : And it shall be, when the officers have made an end of speaking unto the people that they shall make captains of the armies to lead the people.
+21:14 : And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her.
+26:15 : Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey.
+31:19 : Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
+32:15 : But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered with fatness; then he forsook God which made him, and lightly esteemed the Rock of his salvation.
+1:18  : And I commanded you at that time all the things which ye should do.
+24:5  : When a man hath taken a new wife, he shall not go out to war, neither shall he be charged with any business: but he shall be free at home one year, and shall cheer up his wife which he hath taken.
+24:1  : When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house.
+33:19 : They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck of the abundance of the seas, and of treasures hid in the sand.
+28:19 : Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out.
+
+if we take only the verses, then we get the following sequence : 4 9 14 15 19 15 18 5 1 19 19
+
+then substitute the sequence with the alphabetic order. ex : 1 = a, 2 = b, ..., 26 = z
