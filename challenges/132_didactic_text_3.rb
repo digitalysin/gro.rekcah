@@ -203,9 +203,9 @@ str.each_with_index { |x,y|
   bin += ((/  /.match(x)) ? 1 : 0).to_s
 }
 
-bin.split(',').each do |x|
+bin.split(',').each { |x|
   hex = eval("0b#{x[x]}.to_i").chr
   ans += hex
-end
+}
 
 print ans
