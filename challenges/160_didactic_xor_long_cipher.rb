@@ -4,8 +4,8 @@ cipher = '8776459cf37d459fbb7b5ecfbb7f5fcfb23e478aaa3e4389f378439aa13e4e96a77b5f
 
 len = cipher.length / 2
 
-list = Array[0x87,0x76,0x45,0x9C]
-keys = Array[0x00,0x00,0x00,0x00]
+list = [0x87,0x76,0x45,0x9C]
+keys = [0x00,0x00,0x00,0x00]
 s = ['T','h','i','s']
 str = ''
 
@@ -19,12 +19,11 @@ list.each_with_index { |x,y|
 }
 
 # decipher message
-(0..len-1).step(4).each { |x|
+(0...len).step(4).each { |x|
   str1 = (keys[0] ^ cipher[x+x,2].to_s.hex).chr
   str2 = (keys[1] ^ cipher[x+x+2,2].to_s.hex).chr
   str3 = (keys[2] ^ cipher[x+x+4,2].to_s.hex).chr
   str4 = (keys[3] ^ cipher[x+x+6,2].to_s.hex).chr
-  
   str += str1 + str2 + str3 + str4
 }
 

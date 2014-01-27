@@ -5,7 +5,7 @@ len = str.length / 2
 
 sol = ''
 
-(0..len-1).each do |x|
+(0...len).each do |x|
   sol += (79 ^ str[x+x,2].hex).chr
 end
 

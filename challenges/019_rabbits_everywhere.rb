@@ -7,8 +7,8 @@ end
 
 sum = 0
 
-(10..17).each { |n|
+(10..17).each do |n|
   sum += fibonacci(n)
-}
+end
 
 print sum

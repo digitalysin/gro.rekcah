@@ -14,11 +14,11 @@ i = 0
 
 result = ''
 
-str1.each_with_index { |x,y|
+str1.each_with_index do |x,y|
   if str2[y+i] != x
     result += str2[y+i] + ' '
     i += 1
   end
-}
+end
 
 print result

@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-num = Array[199,77,202]
+num = [199,77,202]
 
 result = ''
 

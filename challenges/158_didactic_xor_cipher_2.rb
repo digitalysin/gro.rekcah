@@ -7,7 +7,7 @@ len = cipher.length / 2
 # brute-force the key
 (0..255).each { |k|
   tmp = ''
-  (0..len-1).each { |x|
+  (0...len).each { |x|
     dec = (k ^ cipher[x+x,2].hex)
     tmp += dec.chr if dec >= 32 and dec <= 126
   }
