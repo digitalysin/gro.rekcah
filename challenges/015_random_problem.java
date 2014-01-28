@@ -1,4 +1,4 @@
-// 1. rename this file using solver.java
+// 1. rename this file to solver.java
 // 2. compile: javac solver.java
 // 3. run: java solver
 
