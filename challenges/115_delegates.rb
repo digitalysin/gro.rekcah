@@ -1,8 +1,7 @@
 #!/usr/bin/ruby
 
 def is_perfect_square(num)
-  return true if Math.sqrt(num) - (Math.sqrt(num)).to_i == 0
-  false
+  Math.sqrt(num) - (Math.sqrt(num)).to_i == 0
 end
 
 total = 0
