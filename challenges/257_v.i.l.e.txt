@@ -1,0 +1,23 @@
+it's the country codes
+
+-----------------------------
+| code | country     | code |
+-----------------------------
+| +90  | turkey      |  tr  |
+| +509 | haiti       |  ht  |
+| +20  | egypt       |  eg  |
+| +355 | albania     |  al  |
+| +977 | nepal       |  np  |
+| +46  | sweden      |  se  |
+| +685 | samoa       |  ws  |
+| +503 | el salvador |  sv  |
+| +7   | russia      |  ru  |
+| +98  | iran        |  ir  |
+| +421 | slovakia    |  sk  |
+| +43  | austria     |  at  |
+| +45  | denmark     |  dk  |
+| +380 | ukraine     |  ua  |
+| +377 | monaco      |  mc  |
+-----------------------------
+                        ^
+                     solution
